@@ -1,0 +1,3 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+    Aura Component Test
+</aura:component>
